@@ -1,0 +1,11 @@
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\bin\Debug\eplus-example.exe.config
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\obj\Debug\eplus-example.csprojResolveAssemblyReference.cache
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\bin\Debug\eplus-example.exe
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\bin\Debug\eplus-example.pdb
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\bin\Debug\EPPlus.dll
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\bin\Debug\EPPlus.xml
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\obj\Debug\eplus-example.exe
+c:\users\emmie\documents\visual studio 2013\Projects\eplus-example\eplus-example\obj\Debug\eplus-example.pdb
+C:\Users\Emmie\Source\Repos\eplus-example\eplus-example\bin\Debug\eplus-example.exe.config
+C:\Users\Emmie\Source\Repos\eplus-example\eplus-example\obj\Debug\eplus-example.exe
+C:\Users\Emmie\Source\Repos\eplus-example\eplus-example\obj\Debug\eplus-example.pdb
